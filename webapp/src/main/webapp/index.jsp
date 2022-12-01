@@ -31,8 +31,9 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h3> Ajith </h3> 
-   <h2> Run it out </h2>
-   <h1> Thankyou, You are not welcome </h1>
+   <h3> India  </h3> 
+   <h2> GOT  </h2>
+   <h1> House of Dragon </h1>
+   <h1> The Flash </h1>
   
 </form>
