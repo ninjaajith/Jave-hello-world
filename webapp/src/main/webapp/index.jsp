@@ -32,9 +32,24 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h3> I am an Dragon  </h3> 
+   <h3> Winter is here   </h3> 
    <h2> GOT  </h2>
    <h1> House of Dragon </h1>
    <h1> The Flash </h1>
   
+  <!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial scale=1.0">
+<title>Document</title>
+<h1> Time is <span id="time"> </span></h1>
+<script src="index.js">   </script>
+</head>
+<body>
+</body>
+</html>
+
+
 </form>
