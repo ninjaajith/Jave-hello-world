@@ -32,7 +32,8 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h3> Winter is here   </h3> 
+   <h1> Winter is here   </h1> 
+   <h1> Its a Rainy day </h1>
    <h2> GOT  </h2>
    <h1> House of Dragon </h1>
    <h1> The Flash </h1>
