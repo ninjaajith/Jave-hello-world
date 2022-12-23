@@ -4,7 +4,7 @@
     <p>Please fill in this form to create an account.</p>
     <hr>
      
-    <h2> Today Version.1 </h2>
+    <h2> Today Version 2.1 </h2>
     <label for="Name"><b>Enter Name</b></label>
     <input type="text" placeholder="Enter Full Name" name="Name" id="Name" required>
     <br>
@@ -32,8 +32,8 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> No rain day  </h1> 
-   <h1> Its a Rainy day </h1>
+   <h1> Nagercoil  </h1> 
+   <h1> Tamil NaduO[O </h1>
    <h2> GOT  </h2>
    <h1> House of Dragon </h1>
    <h1> The Flash </h1>
