@@ -33,11 +33,10 @@
   </div>
 
   <h1> New Version <h1>
-   <h1> Tamil NaduO[O </h1>
-   <h2> GOT  </h2>
-   <h1> House of Dragon </h1>
-   <h1> The Flash </h1>
-    
+   <h1> 28/12/2022 </h1>
+   <h2> Wednesday  </h2>
+   <h1> Sunny day </h1>
+      
    <label for="Nick Name"><b>Enter Nick Name</b></label>
     <input type="text" placeholder="Enter Full Name" name="Name" id="Name" required>
 
