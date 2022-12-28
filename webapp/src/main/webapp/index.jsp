@@ -35,7 +35,7 @@
   <h1> New Version <h1>
    <h1> 28/12/2022 </h1>
    <h2> Wednesday  </h2>
-   <h1> Good day </h1>
+   <h1> Noon time </h1>
       
    <label for="Nick Name"><b>Enter Nick Name</b></label>
     <input type="text" placeholder="Enter Full Name" name="Name" id="Name" required>
