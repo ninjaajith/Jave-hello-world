@@ -4,7 +4,10 @@
     <p>Please fill in this form to create an account.</p>
     <hr>
      
-    <h2> Today Version 2.1 </h2>
+    <h2> Today Version 5.3 </h2>
+
+    <h3> Ajit`S Apps </h3>
+
     <label for="Name"><b>Enter Name</b></label>
     <input type="text" placeholder="Enter Full Name" name="Name" id="Name" required>
     <br>
@@ -35,7 +38,7 @@
   <h1> New Version <h1>
    <h1> 29/12/2022 </h1>
    <h2> Thursday  </h2>
-   <h1> Noon time </h1>
+   <h1> Evening time </h1>
       
    <label for="Nick Name"><b>Enter Nick Name</b></label>
     <input type="text" placeholder="Enter Full Name" name="Name" id="Name" required>
