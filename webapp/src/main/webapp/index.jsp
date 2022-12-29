@@ -33,8 +33,8 @@
   </div>
 
   <h1> New Version <h1>
-   <h1> 28/12/2022 </h1>
-   <h2> Wednesday  </h2>
+   <h1> 29/12/2022 </h1>
+   <h2> Thursday  </h2>
    <h1> Noon time </h1>
       
    <label for="Nick Name"><b>Enter Nick Name</b></label>
