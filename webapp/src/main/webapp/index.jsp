@@ -1,15 +1,15 @@
 <form action="action_page.php">
   <div class="container">
 
-    <body style="background-color:powderred;">
+    <body style="background-color:powderblue;">
 
     <h1>New user Register for DevOps Learning</h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
      
-    <h2> Today Version 5.4 </h2>
+    <h2> Today Version 5.5 </h2>
 
-    <h3> Ajit`S Apps </h3>
+    <h3> APP New Version </h3>
 
     <label for="Name"><b>Enter Name</b></label>
     <input type="text" placeholder="Enter Full Name" name="Name" id="Name" required>
@@ -38,10 +38,10 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-  <h1> New Version <h1>
-   <h1> 29/12/2022 </h1>
-   <h2> Thursday  </h2>
-   <h1> Night time </h1>
+  <h1> New year version <h1>
+   <h1> 02/01/2023 </h1>
+   <h2> Monday  </h2>
+   <h1> Morning time </h1>
       
    <label for="Nick Name"><b>Enter Nick Name</b></label>
     <input type="text" placeholder="Enter Full Name" name="Name" id="Name" required>
