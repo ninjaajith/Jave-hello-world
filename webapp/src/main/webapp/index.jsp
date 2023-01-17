@@ -1,13 +1,13 @@
 <form action="action_page.php">
   <div class="container">
 
-    <body style="background-color:#FFC300">
+    <body style="background-color:#7CB342">
 
     <h1>New user Register for DevOps Learning</h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
      
-    <h2> Today Version 5.10 </h2>
+    <h2> Today Version 5.11 </h2>
 
     <h3> APP New Version </h3>
 
@@ -38,10 +38,10 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-  <h1> 5.10 <h1>
-   <h1> 14/01/2023 </h1>
-   <h2> Saturday </h2>
-   <h1> Morning 11:18 "Good Morning" </h1>
+  <h1> 5.11 <h1>
+   <h1> 17/01/2023 </h1>
+   <h2> Tuesday </h2>
+   <h1> Noon 14:11 "Good day" </h1>
       
    <label for="Nick Name"><b>Enter Nick Name</b></label>
     <input type="text" placeholder="Enter Full Name" name="Name" id="Name" required>
