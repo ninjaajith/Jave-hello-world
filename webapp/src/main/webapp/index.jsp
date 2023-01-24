@@ -1,7 +1,7 @@
 <form action="action_page.php">
   <div class="container">
 
-    <body style="background-color:#FF6347">
+    <body style="background-color:#FFD700">
 
     <h1>New user Register for DevOps Learning</h1>
     <p>Please fill in this form to create an account.</p>
@@ -41,7 +41,7 @@
   <h1> 5.14 <h1>
    <h1> 24/01/2023 </h1>
    <h2> Tueseday </h2>
-   <h1> Morning 10:29 "Good Morning Chennai" </h1>
+   <h1> Noon 3:29 "Good Afternoon Chennai" </h1>
       
    <label for="Nick Name"><b>Enter Nick Name</b></label>
     <input type="text" placeholder="Enter Full Name" name="Name" id="Name" required>
