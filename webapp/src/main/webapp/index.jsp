@@ -7,7 +7,7 @@
     <p>Please fill in this form to create an account.</p>
     <hr>
      
-    <h2> Today Version 5.15 </h2>
+    <h2> Today Version 5.16 </h2>
 
     <h3> APP New Version </h3>
 
@@ -38,10 +38,10 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-  <h1> 5.15 <h1>
-   <h1> 24/01/2023 </h1>
-   <h2> Tueseday </h2>
-   <h1> Evening "Good Evening Chennai" </h1>
+  <h1> 5.16 <h1>
+   <h1> 25/01/2023 </h1>
+   <h2> Wednesday </h2>
+   <h1> day "Good Morning Chennai" </h1>
       
    <label for="Nick Name"><b>Enter Nick Name</b></label>
     <input type="text" placeholder="Enter Full Name" name="Name" id="Name" required>
