@@ -41,7 +41,7 @@
   <h1> 5.16 <h1>
    <h1> 25/01/2023 </h1>
    <h2> Wednesday </h2>
-   <h1> 13:26 "Good Morning Chennai" </h1>
+   <h1>  "Good Noon" </h1>
       
    <label for="Nick Name"><b>Enter Nick Name</b></label>
     <input type="text" placeholder="Enter Full Name" name="Name" id="Name" required>
